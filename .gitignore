@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+#Project specific
+js/Javascript-Voronoi-master
+js/noisejs-master
+js/noise/Perlin.js
